@@ -12,3 +12,19 @@ wellbeing-ui/dist/
 wellbeing-ui/node_modules/
 wellbeing-ui/.next/
 wellbeing-ui/dist/
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node / Next.js
+wellbeing-ui/node_modules/
+wellbeing-ui/.next/
+wellbeing-ui/dist/
+
+# Env files
+.env
+.env.*
+wellbeing-ui/.env.local
+wellbeing-ui/.env.*
