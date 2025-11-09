@@ -3,3 +3,8 @@
 wellbeing-ui/node_modules/
 wellbeing-ui/.next/
 wellbeing-ui/dist/
+
+# Frontend artifacts
+wellbeing-ui/node_modules/
+wellbeing-ui/.next/
+wellbeing-ui/dist/
